@@ -1,7 +1,7 @@
 
 # Roblox-Client-Optimizer
 
-RCO tinh chỉnh FFlags để tối ưu ứng dụng roblox.
+RCO tinh chỉnh FFlags để tối ưu ứng dụng Roblox.
 
 Tất cả flags chúng tôi chỉnh sửa đều ở [Kho GitHub ](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 
@@ -26,6 +26,7 @@ Một số tinh chỉnh của RCO :
 - Kích hoạt ParallelHumanoidManager
 - Kích hoạt BatchAssetApi
 ## LƯU Ý | NOTE
+- KHÔNG DÀNH CHO PHIÊN BẢN ROBLOX (MICROSOFT STORE)
 - ĐÂY CHỈ LÀ DỰ ÁN ĐƯỢC VIỆT HÓA, MỌI THÔNG TIN ĐỀU THUỘC VỀ [DỰ ÁN GỐC](https://github.com/L8X/Roblox-Client-Optimizer)
 - THIS IS ONLY A VIETNAMESE-TRANSLATED PROJECT, ALL INFORMATION BELONGS TO [ORIGINAL REPOSITORY](https://github.com/L8X/Roblox-Client-Optimizer)
   
