@@ -25,3 +25,7 @@ Một số tinh chỉnh của RCO :
 - Bật QuickGameLaunch
 - Kích hoạt ParallelHumanoidManager
 - Kích hoạt BatchAssetApi
+
+- LƯU Ý : ĐÂY CHỈ LÀ DỰ ÁN ĐƯỢC VIỆT HÓA, MỌI THÔNG TIN ĐỀU THUỘC VỀ [DỰ ÁN GỐC](https://github.com/L8X/Roblox-Client-Optimizer)
+- NOTE : THIS IS ONLY A VIETNAMESE-TRANSLATED PROJECT, ALL INFORMATION BELONGS TO [ORIGINAL REPOSITORY](https://github.com/L8X/Roblox-Client-Optimizer)
+  
