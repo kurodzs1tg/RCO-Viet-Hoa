@@ -6,7 +6,7 @@ RCO tinh chỉnh FFlags để tối ưu ứng dụng Roblox.
 Tất cả flags chúng tôi chỉnh sửa đều ở [Kho GitHub ](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 
 ## Discord
-[Discord](https://optifury.com/discord) hỗ trợ !
+[Discord](https://discord.gg/5TKNVFF4jQ) hỗ trợ !
 ## Cài Đặt
 Xem qua [video này](https://www.youtube.com/watch?v=aY7US2Zl47M) để biết cách cài đặt và sử dụng !
 ## Về RCO
