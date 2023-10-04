@@ -9,7 +9,7 @@ Tất cả flags chúng tôi chỉnh sửa đều ở [đây](https://github.com
 ## Discord
 [Discord](https://discord.gg/5TKNVFF4jQ) hỗ trợ !
 ## Cài Đặt
-Xem qua [video này](https://www.youtube.com/watch?v=aY7US2Zl47M) để biết cách cài đặt và sử dụng !
+Xem qua [video này](https://www.youtube.com/watch?v=rDN5RQBNzkE) để biết cách cài đặt và sử dụng !
 ## Về RCO
 Một số tinh chỉnh của RCO : 
 - Mở khóa FPS (Cho hầu hết mọi người)
