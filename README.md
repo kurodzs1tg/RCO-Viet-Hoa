@@ -1,9 +1,10 @@
 
+  
 # Roblox-Client-Optimizer
 
 RCO tinh chỉnh FFlags để tối ưu ứng dụng Roblox.
 
-Tất cả flags chúng tôi chỉnh sửa đều ở [Kho GitHub ](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
+Tất cả flags chúng tôi chỉnh sửa đều ở [đây](https://github.com/kurodzs1tg/RCO-Viet-Hoa/blob/main/ClientAppSettings.json).
 
 ## Discord
 [Discord](https://discord.gg/5TKNVFF4jQ) hỗ trợ !
@@ -21,12 +22,11 @@ Một số tinh chỉnh của RCO :
 - Vô hiệu hóa báo cáo lạm dụngẢnh chụp màn hình
 - Cho phép tải trước mục phông chữ và kết cấu
 - Cho phép ưu tiên bộ nhớ và kiểm soát hiệu suất
-- Cho phép tùy chọn chất lượng đồ họa ĐẦY ĐỦ (21 thay vì 10!)
+- Cho phép tùy chọn chất lượng đồ họa ĐẦY ĐỦ (21 thay vì 10)
 - Bật QuickGameLaunch
 - Kích hoạt ParallelHumanoidManager
 - Kích hoạt BatchAssetApi
+- Giao diện Roblox 2023
 ## LƯU Ý | NOTE
-- KHÔNG DÀNH CHO PHIÊN BẢN ROBLOX (MICROSOFT STORE)
-- ĐÂY CHỈ LÀ DỰ ÁN ĐƯỢC VIỆT HÓA, MỌI THÔNG TIN ĐỀU THUỘC VỀ [DỰ ÁN GỐC](https://github.com/L8X/Roblox-Client-Optimizer)
-- THIS IS ONLY A VIETNAMESE-TRANSLATED PROJECT, ALL INFORMATION BELONGS TO [ORIGINAL REPOSITORY](https://github.com/L8X/Roblox-Client-Optimizer)
-  
+- Không dành cho phiên bản Roblox (Microsoft Store)
+- Hiện tại dự án gốc đã được nhượng quyền sang người khác nên không còn thuộc sở hữu của L8X
